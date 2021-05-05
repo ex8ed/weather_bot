@@ -4,7 +4,7 @@ import requests
 import config
 
 # change for your directory!
-os.chdir("../miem_weather")
+os.chdir("C:/Users/Nick/Documents/miem_weather")
 
 
 def getImage(info):
