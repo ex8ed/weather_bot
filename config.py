@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 
 # contains TOKEN from Telegram
-token = '1504589822:AAH60ey28yUK3wDPH-xDfiRIhXHG16R7tzA'
+token = ''
 
 # contains Yandex.Weather API
-YandexAPIKey = {'X-Yandex-API-Key': '69e256b0-b44c-42fd-94d5-7a9479500341'}
+YandexAPIKey = {'X-Yandex-API-Key': ''}
 
 # contains unsplash API
-unsplashKey = 'KO9jU1Gpv-ixkH-22BXyTCpCNbuf5RChhT1kvmRyyZc'
+unsplashKey = ''
 
 # contains URL
 address = 'https://api.weather.yandex.ru/v2/forecast/'
